@@ -94,3 +94,6 @@ app:
   - opts:
       is_expand: false
     BITRISE_CODE_SIGNING_IDENTITY: 'Apple Development: Ben Boral (L5Y7PBM38G)'
+meta:
+  bitrise.io:
+    machine_type_id: g2.12core
