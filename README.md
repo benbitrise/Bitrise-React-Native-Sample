@@ -1,4 +1,4 @@
-Bitrise-React-Native-Sample
+#Bitrise-React-Native-Sample
 
 Simple React Native Project 
 
