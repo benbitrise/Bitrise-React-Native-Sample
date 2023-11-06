@@ -717,6 +717,7 @@
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 72SA8V3WYL;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 72SA8V3WYL;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = TodoMVC/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -726,8 +727,10 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.bitrise.todomvc;
 				PRODUCT_NAME = TodoMVC;
 				PROVISIONING_PROFILE_SPECIFIER = "BitriseBot-Wildcard";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "Todo Dev - Ben";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -744,6 +747,7 @@
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 72SA8V3WYL;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 72SA8V3WYL;
 				INFOPLIST_FILE = TodoMVC/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -752,8 +756,10 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.bitrise.todomvc;
 				PRODUCT_NAME = TodoMVC;
 				PROVISIONING_PROFILE_SPECIFIER = "BitriseBot-Wildcard";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "Todo Dist - Ben";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
