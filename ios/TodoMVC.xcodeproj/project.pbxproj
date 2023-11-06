@@ -726,10 +726,9 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.bitrise.todomvc;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bitrise.todomvc;
 				PRODUCT_NAME = TodoMVC;
-				PROVISIONING_PROFILE_SPECIFIER = "BitriseBot-Wildcard";
+				PROVISIONING_PROFILE_SPECIFIER = "Todo Dev - Ben";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "Todo Dev - Ben";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -755,10 +754,9 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.bitrise.todomvc;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bitrise.todomvc;
 				PRODUCT_NAME = TodoMVC;
-				PROVISIONING_PROFILE_SPECIFIER = "BitriseBot-Wildcard";
+				PROVISIONING_PROFILE_SPECIFIER = "Todo Dist - Ben";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "Todo Dist - Ben";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
