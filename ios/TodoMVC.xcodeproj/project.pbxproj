@@ -297,7 +297,7 @@
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
-						DevelopmentTeam = 72SA8V3WYL;
+						DevelopmentTeam = 8B443VGB84;
 						LastSwiftMigration = 1120;
 						ProvisioningStyle = Manual;
 					};
@@ -716,8 +716,8 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Development: Dev Portal Bot Bitrise (E89JV3W9K4)";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 72SA8V3WYL;
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 72SA8V3WYL;
+				DEVELOPMENT_TEAM = 8B443VGB84;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 8B443VGB84;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = TodoMVC/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
