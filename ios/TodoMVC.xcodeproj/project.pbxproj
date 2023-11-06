@@ -728,8 +728,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.bitrise.todomvc;
 				PRODUCT_NAME = TodoMVC;
-				PROVISIONING_PROFILE_SPECIFIER = "Todo Dev - Ben";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "Todo Dev - Ben";
+				PROVISIONING_PROFILE_SPECIFIER = "ben todo mvc";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "ben todo mvc";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
